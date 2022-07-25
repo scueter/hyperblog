@@ -12,5 +12,7 @@ En este curso vemos de todo:
 *Las personalidades multiples de freddy
 *Creado por el increible Platzi Team
 *Incluye ejemplosen Windoes, Linux y MAC
+*Disponible para todas las edades
+
 
 Y como un amable recordatorio : **Este readme.md es un chiste**. Disenado para el ejemplo. Si llegas aca NO TE LO TOMES ENSERIO y mejor be a **[ver el curso**](https://platzi.com/cursos/git-github/).
